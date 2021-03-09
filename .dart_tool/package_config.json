@@ -105,7 +105,7 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///Users/huanghui/.pub-cache/hosted/pub.flutter-io.cn/intl-0.17.0-nullsafety.2",
+      "rootUri": "file:///Users/huanghui/.pub-cache/hosted/pub.flutter-io.cn/intl-0.17.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -326,7 +326,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-03-09T04:15:11.364958Z",
+  "generated": "2021-03-09T04:17:31.561055Z",
   "generator": "pub",
   "generatorVersion": "2.12.0"
 }
